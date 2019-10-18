@@ -1,0 +1,402 @@
+https://mp.weixin.qq.com/s/oxchhgoljYJoUwBseIFRzQ
+
+https://blog.csdn.net/jbj6568839z/article/details/88128217
+
+基本日程
+周三：下周上机
+周五：上传教案、发布素材和本周要点
+周日：审批教案、本周素材 第八周教案ok
+
+
+听课：
+孙丹丹	证券投资学	星期四	6	证券期货模拟实训室(北二楼)	经济17-1
+李婕娜	计算机应用基础（上）	星期二	7	多媒体模拟实验室1（A204）	工程造价2019-1
+
+强烈建议不要用直接使用 cnpm 安装，会有各种诡异的 bug，可以通过重新指定 registry 来解决 npm 安装速度慢的问题。若还是不行，可使用 yarn 替代 npm。
+
+
+教师列表：
+李婕娜
+刘金光
+王光
+于美娜
+刘玉仁
+王希达
+栾剑
+黄敏
+汪赫瑜
+陈英
+张德全
+吴文博
+
+
+github:
+bluesky429 hld_
+
+https://my.gearhost.com
+hldxtd@163.com
+hld_
+
+Hostname: ftp.gear.host
+Username: bluesky2019\$bluesky2019
+Password: Ko1gYJqoFZW452AmStF4J3kmNdhSAu4h2GSFeDGcCNfSzT5jeekpPp13Mlhn
+
+GearHost免费套餐主机容量是100MB，Mysql数据库5Mb，月流量是1GB。免费套餐对于建站数量没有限制，但是限制内存是256MB，CPU占用为5%，不支持ssl。
+上面的配置运行一个Wordpress博客基本上是没有问题的。做博客主机容量100M基本上够用，图片这些外链就好，数据库5M完全没问题，本博客这么久也才用不到2M,月流量稍微小了点。小伙计们，赶紧来申请吧
+
+
+
+辽宁财贸学院经济与管理学院教师，1997年毕业于兰州大学微电子学专业，任教十余年，主要专业方向为信息系统与信息管理，担任计算机应用公共课及信息管理与信息系统专业课的教学，工作认真负责，积极进取。2017年获得《辽宁省教育信息化大赛》一等奖。2019年考取国家计算机技术与软件专业技术资格中《信息系统项目管理师》证书。
+
+论文：
+《人工智能为经济发展注入新动能》
+
+辽工大发布竞赛通知栏：
+http://cxxy.lntu.edu.cn/cxhdzx/cxzt.htm#
+
+自主学习平台：
+http://119.115.138.222:33280/LC
+http://192.168.100.107:33280/LC/
+020102	790629
+080302	000
+
+小程序大赛
+赵德远、陈云、苗鑫、何文平、付泽坤
+万雨萌、王璐、王越、王洪雪、王敏、寇心蕊、于鑫淼
+	
+
+
+信息系统项目管理师	1个工作日后审核，5.20打印准考证
+http://bm.ruankao.org.cn/
+手机号，密码大写字母开始
+证书查询：（中国人事考试网）
+http://zs.cpta.com.cn/certMng/frontlogin.do?method=fwdNextPage&src=1
+hldlt001，密码大写字母开始
+证书领取查询：
+http://www.lnrsks.com/html/chengjizhengshu/lingzhengtongzhi/index.html
+
+
+教育部信息填报平台
+http://zypt.upln.cn/sdb/login_view.action;jsessionid=7205D97F1E86226C2A18E6D7146019C5
+
+学员博客：
+https://www.xuanmo.xin/
+https://www.weipxiu.com/
+vue作品：http://wulv5.com/
+
+入党时间：2012/12/31
+
+党建云平台：
+http://lszhdj.lndj.gov.cn/lsuaa/login
+用户名：身份证号；密码：12345@ypt
+
+百度文库下载
+直接点击打开： www.blpack.com 
+卡号：122825306
+密码：338441
+
+18911068 	董思佳 18信管 建昌
+
+
+********************************
+200套党政PPT在这里
+链接：https://pan.baidu.com/s/13nPHqNKgEIjQgcPdiKdftg
+提取码：1qug
+
+100套中国风PPT模板资源
+链接：https://pan.baidu.com/s/1Xz2h5tbTFUZBy6x49PC8pg?
+密码：gigy
+
+240套手绘风PPT模板资源
+链接：https://pan.baidu.com/s/1U6dlJGERSRomK-1QbKQ5aA 
+密码：cmiy
+
+6G典藏PPT模板资源
+链接：https://pan.baidu.com/s/19u-gmIdVKK7sXONfBSBHuA 
+密码：946e 
+
+科技风PPT：https://pan.baidu.com/s/1pGtFjErC7lXgVoMxoj0Jsw?
+提取码：ahjb
+
+水彩风PPT：https://pan.baidu.com/s/1nIIFWZ0Otq_PUOI_ha-17w?
+提取码：65tw
+
+office大礼包：https://pan.baidu.com/s/16uikUK5izupTmjrB-gv0SQ
+提取码：td9d
+
+https://pan.baidu.com/mbox/homepage?short=c3prVJq 群组文件库
+
+150套汇报总结PPT：https://pan.baidu.com/s/1Ja1AA8QiE3DfyIVVeTlmtQ
+提取码：lad7 
+
+2019计算机题库：https://pan.baidu.com/s/12i81qkDmOMWvO6vFrV2N5A
+提取码：81p8
+*******************************
+点睛微学堂-百度网盘链接
+
+2019版二级Office考试模拟软件
+链接: https://pan.baidu.com/s/1W5hAtNpcYY2PPj_MNfC0bQ 
+提取码: hag5 
+关键词：模拟软件
+
+2019二级office高级应用视频讲解
+链接: https://pan.baidu.com/s/1juG7rqlkyNkvLeYukIGWdQ 提取码: 7seg 
+关键词：视频讲解
+
+Microsoft Office 2010免序列号专业正式版
+链接: https://pan.baidu.com/s/1N-DxMcXw8tbxqYkODAvGjQ 提取码: qrtj 
+关键词：2010安装版
+
+Office 2010 简体中文专业增强版破解版(包含32位64位)
+链接: https://pan.baidu.com/s/1BTJYheu1wDIQxj0y6UNUfw 提取码: 372w 
+关键词：2010破解版
+
+二级公共基础知识_讲解视频
+链接: https://pan.baidu.com/s/1FZigpGEP4EIJF8EvItJHGQ 提取码: pkc7
+关键词：公共基础视频
+
+欢迎你来到点睛微学堂
+
+2019版二级Office考试模拟软件
+
+链接: https://pan.baidu.com/s/1W5hAtNpcYY2PPj_MNfC0bQ
+
+提取码: hag5
+
+文件如太多可以在电脑端分次保存进行解决。
+
+*******************************
+北交科大：
+http://hldlt002.gotoip1.com/index.html
+http://hldlt002.gotoip1.com/dede/index.php
+admin,..
+ftp:hldxtd那个
+
+jitie 13700199370
+lnbjkd.com
+
+jitie.gotoip1.com
+ftp用户同上
+
+
+朋友圈（群）、公众号和小程序,分别对应着社交、内容和服务,这三者加起来正好是小程序目前最火爆的变现方案——社交电商。
+
+*****************************
+PPT学习：
+1、PPT最常用字体是微软雅黑，区别于印刷字体宋体，宋体横细竖粗，而远观PPT更适合微软雅黑，识别度更高！
+2、糟糕的PPT的常见设计：
+a、文字和背景颜色太接近，不易识别
+b、加下划线，感觉是超链接，影响视觉效果
+c、使用艺术字，原始艺术字效果真是很难看，拉低格调
+d、图片变形或者有水印，配图布局很low
+
+3、我懂个P第一季：使用图片要点
+a、图片高清，无水印
+b、图能达意，图片即背景，纯色区域配合“核心文字+简短说明+注释”布局方式
+c、图片和文字的布局，拒绝很low的上下或左右模式。借助smartart排版或者参考优秀作品排版。
+多个图片或者多行文字都可以利用smartart排版！
+
+
+设计素材：
+包图网：太牛逼了，各种设计成品，包括办公文档word、excel、PPT，海报广告，音视频素材，应有尽有，而且海量，值得拥有！
+https://ibaotu.com/sucai/86823.html
+
+
+一个好的PPT设计总结：
+参考包图网：京剧戏曲中国风ppt模板
+https://ibaotu.com/sucai/86823.html
+一、设计封面、封底、目录图，以及内容页背景图，从而定义好统一的色系和风格。
+二、准备相应风格的配图素材，对素材进行处理。
+三、页面文字和图片布局结构可参考这个PPT，或者其它成品PPT的布局方式
+内容分项可以采用smartart布局方法，各种图示的结构，更易于意义的表达
+尤其是多图片罗列、大片文字等布局难度大的页面，这里提出了多个布局架构的可参考实例
+也可以从很多的成品PPT中获取灵感！
+
+
+************************************
+云服务器：
+122.114.162.248  (华中BGP) ssh端口:22000
+http://hldxtd.com/weiqing/web/index.php
+http://www.hldxtd.com:8080/index.php
+root 初始密码: 	45gh34s2
+数据库：hldxtd hld2
+
+每日三次更新：
+update `ims_zhtc_information` set state=2 WHERE time<unix_timestamp(now()) and state=1;
+update `ims_zhtc_store`set views=views+FLOOR( RAND() * 40 )  WHERE is_top=1;
+update `ims_zhtc_store`set views=views+FLOOR( RAND() * 10 )  where state=2;
+update `ims_zhtc_information` set views=views+FLOOR( RAND() * 10 )  where state=2;
+update `ims_zhtc_system` set total_num=total_num+FLOOR( 100 + RAND() * 300 )  where id=2;
+update `ims_zhtc_system` set tz_num=tz_num+FLOOR( 10 + RAND() * 30 )  where id=2;
+
+//更新审核分类信息：
+//增加首页推荐商家浏览量：
+//增加所有商家浏览量：
+//增加所有分类信息浏览量：
+//更新总浏览量：
+//更新总信息量：
+
+
+SELECT id,tel,store_name FROM ` ims_zhtc_store` WHERE id>7380
+
+update `lr_syq_shangchang`
+set renqi=FLOOR( 100 + RAND() * (500 - 100))
+WHERE renqi<200
+
+坐标拾取系统
+http://api.map.baidu.com/lbsapi/getpoint/index.html
+
+**************************************
+商户：
+liuyurenfanqingchunliuqingxin888
+
+微信支付商户号 1511122601 
+商户平台登录帐号 1511122601@1511122601 
+申请对应的小程序 葫芦岛商业圈（） 
+小程序APPID wx713837620d643db5 
+
+
+***********************************
+
+hldxtd.com
+
+----已上线：
+ 电脑维修：hldxtd05@163.com	蓝天
+ 家政：hldxtd04@163.com		蓝天
+ 快递：hldxtd07@163.com		蓝天
+ 纹身：hldxtd06@163.com		蓝天
+ 兴城导游：3332757500@qq.com	蓝天
+家电维修：hldxtd@aliyun.com	蓝天
+兴城家教：hldxtd01@163.com	蓝天
+ 废品回收：hldxtd08@163.com	蓝天
+
+ 家教：hldxtd19@163.com		点睛
+ 专业通下水：hldxtd22@163.com	点睛
+ 保洁：hldxtd20@163.com		点睛
+ 瑜伽：hldxtd23@163.com		点睛
+ 美容院：hldxtd21@163.com		点睛
+ 专业开锁：hldxtd28@163.com	点睛
+月嫂：hldxtd51@163.com		点睛
+保姆：hldxtd52@163.com		点睛
+钟点工：hldxtd53@163.com		点睛
+手机维修：hldxtd55@163.com	点睛
+
+礼品回收：hldxtd60@163.com 	点睛春雨
+
+
+推广：
+新天地	hldxtd01@sina.com 	蓝天	上线描述ok，推广/附近的小程序审核中！
+*旅游景点：hldxtd02@163.com	蓝天	上线推广描述ok
+*天气预报：hldxtd67@163.com ？	点睛	上线推广描述ok
+婚纱摄影，
+
+
+未通过：
+起名：hldxtd25@163.com		点睛
+风水：hldxtd63@163.com		点睛
+按摩：hldxtd26@163.com		点睛
+算命
+
+
+原始公众号资料：
+点睛微学堂：3550232931@qq.com			蓝天
+兴城校园生活平台：hldlt001@hotmail.com		点睛
+信之翼：59952195@qq.com 密码：qq59952195		蓝天
+葫芦岛点睛网络：188429001@qq.com			蓝天
+
+
+非认证类：
+新天地公司号
+天气预报
+
+******************************
+转发其它公众号文章的方法：
+1、手机微信上收藏
+2、打开网页版微信
+3、手机微信--我--收藏--长按多选--转发到“文件传输助手”
+4、网页微信端接收，打开复制其中内容
+5、公众号中素材管理，粘贴素材。
+
+*************************************
+可用邮箱号码：
+sohu.com 04-16
+sina.com 
+hotmail.com 01-10
+21cn.com  05
+
+公司主体注册：
+hldxtd01@sohu.com	河蟹		蓝天	hx	
+wx30b9e1b5aced8472
+gh_f4e237f8279b
+f6d49f213d9f3b96151c8e37babd3d9a
+
+hldxtd01@sina.com	新天地官方	蓝天	xtd	wx951cd5bfbe37a496
+hldxtd02@sina.com			蓝天
+hldxtd03@sina.com 	葫芦岛买房	蓝天		wxe1518b220f345f9c	gh_d49c82a40ffa
+hldxtd04@sina.com 	葫芦岛减肥	蓝天	jf	wxa80bac79072b3247
+hldxtd05@sina.com			二姐
+hldxtd06@sina.com			二姐
+
+
+关联第一公众号认证：公众号 hldxtd02@sohu.com
+hldxtd07@sina.com	葫芦岛教学在线	jxzx	wxf68425068b3f21aa	gh_0ee769811bfa	8d2962e5d1510060ae4995232948c9a9
+hldxtd01@21cn.com	葫芦岛英语培训	yypx	wxe5888d19030fe5b0
+hldxtd02@21cn.com	葫芦岛订鲜花	dxh	wxd534e454071afd5a
+hldxtd03@21cn.com	葫芦岛汽车网	qcw	wx30dc184f462f35ea
+hldxtd04@21cn.com	葫芦岛装修装饰	zxzs	wxd2ee39070fa94dfc
+
+
+关联第二公众号认证：公众号 hldxtd08@sina.com
+hldxtd11@sina.com	葫芦岛二手车交易平台	escjy	wxa1b18472fa6f8223
+hldxtd12@sina.com	葫芦岛租车	zc		wx7a8fdd3202740aaa
+hldxtd13@sina.com	葫芦岛搬家公司哪家好	bjgs	wxca1b6bd6b487df91
+hldxtd14@sina.com	葫芦岛美丽在线	mlzx		wxe8c433da6ea5302c
+hldxtd15@sina.com	葫芦岛上门维修	smwx		wx637dfbf4a061cef9
+
+
+关联第三公众号认证：公众号 hldxtd09@sina.com
+hldxtd16@sina.com	葫芦岛养老院	yly		wx5c2e6bc84a16f26b
+hldxtd17@sina.com	葫芦岛印刷厂	ysc		wx62faf797221055d7
+hldxtd18@sina.com	葫芦岛家具	jj		wx47d670a5cd1a5c4a
+hldxtd19@sina.com	葫芦岛画室	hs		wxdf0127a44dedc9df
+hldxtd20@sina.com	葫芦岛计算机培训	jsjpx	wxbf8d1da4a2936577
+
+2747374415@qq.com
+
+葫芦岛家政平台
+
+关联第四公众号认证：公众号 hldxtd10@sina.com
+hldxtd21@sina.com	葫芦岛琴行	qh	wx2c9ef0d41374182d
+hldxtd22@sina.com	葫芦岛舞蹈培训	wdpx	wxb2acc1d5d656bece
+hldxtd23@sina.com	葫芦岛辅导班	fdb	wx4320c4c329e85897
+hldxtd24@sina.com	葫芦岛汽车用品	qcyp	wxe92bc514792b18a1
+hldxtd03@sohu.com	葫芦岛商业圈	syq	
+wx713837620d643db5
+3bf6ce452c8b15147039e977220bae67
+gh_1c473af0a312
+
+葫芦岛新天地网络科技公司，专注于微信小程序开发，愿携手家乡商企共享微信小程序大商机！
+
+小程序帐号主体(葫芦岛新天地网络科技有限责任公司) 
+91211403MA0UXW3R13
+辽宁省葫芦岛市龙港区龙湾街农行1-5
+
+ 	
+*********************************
+牛逼诶，会动的图片：
+   <view class="wave1" >
+    
+<image style="width:1500rpx;height:400rpx;transform:rotate({{lean}}deg) ;" src="../../image/first.png"></image>
+  
+</view>   
+
+
+   
+<view class="wave2" >
+    
+<image style="width:1500rpx;height:400rpx;transform:rotate({{lean}}deg) ;" src="../../image/second.png"></image>
+  
+</view>  
+
+
+
